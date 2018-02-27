@@ -473,7 +473,8 @@ footer p {
 }
 
 .credits, .credits a {
-    color: #bdf;
+    color: #8cf;
+    opacity: 0.5;
 }
 
 /* ==========================
