@@ -389,6 +389,8 @@ hr {
 
 .avatar {
   margin-bottom: 20px;
+  width: 75%;
+  height: auto;
 }
 
 .team-social {
