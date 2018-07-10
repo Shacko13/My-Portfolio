@@ -70,13 +70,12 @@ a:focus {
 }
 
 .navbar-brand {
-    font-weight: 700;
-}
-.navbar-brand {
   height: 40px;
   padding: 5px 15px;
   font-size: 18px;
   line-height: 1em;
+  font-weight: 700;
+  text-shadow: 0px 3px 3px black;
 }
 
 .navbar-brand h1{
@@ -321,7 +320,6 @@ hr {
 
 .intro .slogan {
   text-align: center;
-
 }
 
 .intro .page-scroll {
@@ -338,7 +336,7 @@ hr {
 
 .intro .slogan h2 {
   color: #FFF;
-  text-shadow: none;
+  text-shadow: 5px 5px 5px black;
   font-size: 60px;
   line-height: 60px;
   font-weight: 700;
@@ -349,12 +347,11 @@ hr {
   border-width: 0px;
   border-color: #000;
   border-style: none;
-  text-shadow: -1px 0 1px #000;
 }
 
 .intro .slogan h4 {
   color: #fff;
-  text-shadow: -1px 1px 1px #000;
+  text-shadow: 1px 3px 3px black;
 }
 
 @media (max-width: 768px) {
